@@ -1,5 +1,3 @@
-console.log("Hello, world!");
-
-
-
 // write your code below!
+console.log("Hello, world!");
+index.js 
